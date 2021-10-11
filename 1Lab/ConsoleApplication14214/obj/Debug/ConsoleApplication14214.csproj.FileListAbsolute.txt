@@ -1,6 +1,0 @@
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\bin\Debug\ConsoleApplication14214.exe.config
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\obj\Debug\ConsoleApplication14214.csprojResolveAssemblyReference.cache
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\bin\Debug\ConsoleApplication14214.exe
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\bin\Debug\ConsoleApplication14214.pdb
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\obj\Debug\ConsoleApplication14214.exe
-C:\Users\Lrazerz\Desktop\ConsoleApplication14214\ConsoleApplication14214\obj\Debug\ConsoleApplication14214.pdb
