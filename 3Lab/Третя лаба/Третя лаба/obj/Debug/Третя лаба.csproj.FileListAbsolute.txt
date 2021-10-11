@@ -1,7 +1,0 @@
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\bin\Debug\Третя лаба.exe.config
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\bin\Debug\Третя лаба.exe
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\bin\Debug\Третя лаба.pdb
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\obj\Debug\Третя лаба.exe
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\obj\Debug\Третя лаба.pdb
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\obj\Debug\Третя лаба.csprojAssemblyReference.cache
-D:\Labs_Alg\Третя лаба\Третя лаба\Третя лаба\obj\Debug\Третя лаба.csproj.CoreCompileInputs.cache
